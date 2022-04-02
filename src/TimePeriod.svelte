@@ -1,6 +1,6 @@
 <script>
   export let label = "P"; // time pediod label: M | H | S | (P as default)
-  export let span = "00"; // 00 <= span <= 59, as two-digi string
+  export let span = "00"; // 00 <= span <= 59, as two-digit string
 
   const OFF_COLOR = "#444"; // dark-gray
   const ON_COLOR = "#79FE0C"; // fluorescent-green
